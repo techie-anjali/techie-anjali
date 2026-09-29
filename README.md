@@ -49,19 +49,19 @@
 
 ### 🚀 `$ ./projects --active`
 
-text
-# 01. SECURE TRANSACTION ENGINE
-├── Architecture: Spring Boot | Java 21
-├── Cryptography: AES-256 Payload Encryption + RSA Handshake
-├── Reliability:  Idempotent Request Deduplication & Replay-Attack Prevention (TTL)
-└── Protocols:    BLE Protocol Bridging
+#### 01. SECURE TRANSACTION ENGINE
+* **Architecture:** Spring Boot | Java 21
+* **Cryptography:** AES-256 Payload Encryption + RSA Handshake
+* **Reliability:** Idempotent Request Deduplication & Replay-Attack Prevention (TTL)
+* **Protocols:** BLE Protocol Bridging
 
-# 02. HIGH-CONCURRENCY BACKEND SERVICE
-├── Stack:        Java 21 | Spring Data JPA | MySQL
-└── Architecture: Strict REST Constraints & Centralized Error Contracts
+#### 02. HIGH-CONCURRENCY BACKEND SERVICE
+* **Stack:** Java 21 | Spring Data JPA | MySQL
+* **Architecture:** Strict REST Constraints & Centralized Error Contracts
 
-$ ./github_metrics
-CURRENT_QUEST [████████████████████████████████████████] 100%
-  ├─ [✔] Core Concurrency & JVM Internals
-  ├─ [✔] Resilient API Design & Cryptography
-  └─ [⚡] Large-Scale Distributed Architecture & Applied AI
+---
+
+#### 📊 Current Focus & Metrics
+* 🟢 **Core Concurrency & JVM Internals** — Completed (100%)
+* 🟢 **Resilient API Design & Cryptography** — Completed (100%)
+* ⚡ **Large-Scale Distributed Architecture & Applied AI** — In Progress
