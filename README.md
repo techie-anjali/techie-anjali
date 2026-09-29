@@ -13,7 +13,7 @@
 </td>
 <td width="58%" align="left" style="border: none; vertical-align: middle; padding-left: 20px;">
 <h3><code>&gt; SYSTEM_STATUS: OPERATIONAL</code></h3>
-<p><i>"Becoming a polymath is not about knowing everything.<br/>It is about staying curious enough to learn anything."</i></p>
+<p><i>"Till death, all defeats are psychological."</i></p>
 
 <!-- Animated typing text -->
 <a href="https://github.com/techie-anjali">
@@ -49,19 +49,18 @@
 
 ### 🚀 `$ ./projects --active`
 
-#### 01. SECURE TRANSACTION ENGINE
-* **Architecture:** Spring Boot | Java 21
-* **Cryptography:** AES-256 Payload Encryption + RSA Handshake
+#### 01. [upi-offline-mesh](https://github.com/techie-anjali/upi-offline-mesh)
+* **Architecture:** Java 21 | Spring Boot
+* **Cryptography:** AES-256 Payload Encryption & RSA Handshake
 * **Reliability:** Idempotent Request Deduplication & Replay-Attack Prevention (TTL)
-* **Protocols:** BLE Protocol Bridging
+* **Protocols:** Offline Mesh & BLE Protocol Bridging
 
-#### 02. HIGH-CONCURRENCY BACKEND SERVICE
-* **Stack:** Java 21 | Spring Data JPA | MySQL
-* **Architecture:** Strict REST Constraints & Centralized Error Contracts
+#### 02. [DPI-Engine](https://github.com/techie-anjali/DPI-Engine)
+* **Stack:** C++ | Low-Level Systems Programming
+* **Focus:** Deep Packet Inspection, High-Throughput Packet Parsing & Network Protocol Analysis
+
+#### 03. [Agri-Smart](https://github.com/techie-anjali/Agri-Smart)
+* **Stack:** TypeScript
+* **Context:** Smart India Hackathon prototype for intelligent agricultural monitoring & workflows
 
 ---
-
-#### 📊 Current Focus & Metrics
-* 🟢 **Core Concurrency & JVM Internals** — Completed (100%)
-* 🟢 **Resilient API Design & Cryptography** — Completed (100%)
-* ⚡ **Large-Scale Distributed Architecture & Applied AI** — In Progress
