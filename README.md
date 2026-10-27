@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- ANIMATED TERMINAL HEADER -->
-<img src="header.svg" alt="techie-anjali Terminal Banner" width="100%" />
+<img src="avatar.svg" alt="Anjali Jha Matrix ASCII Portrait" width="340" />
 
 <br/><br/>
 
