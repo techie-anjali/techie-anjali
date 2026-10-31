@@ -10,8 +10,7 @@
 <tr>
 <td width="42%" align="center" valign="middle">
 
-<!-- YOUR GREEN ASCII PORTRAIT -->
-<img src="pfpf.png" alt="Anjali Jha Matrix ASCII Portrait" width="340" />
+<img src="pfpf.png" alt="Anjali Jha Matrix Portrait" width="340" />
 
 </td>
 <td width="58%" align="left" valign="middle">
@@ -24,10 +23,18 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/anjali-jha-aab39128b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/anjali_jha123"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="https://x.com/anjali_jha_tech"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:ajha30024@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/anjali-jha-aab39128b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/anjali_jha123">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://x.com/anjali_jha_tech">
+<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="mailto:ajha30024@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br/>
 
